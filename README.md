@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ming
 - Profile pending
+- I have a [company blog](https://explorerhop.com/blogs/tech)
 
 <!---
 mingfengwan/mingfengwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
