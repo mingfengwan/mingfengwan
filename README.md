@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ming
+- 👋 Hi, I’m Ming.
 - 👷🏻 Profile under construction.
 - ✍🏼 Occasionally write [tech blogs for my company](https://explorerhop.com/blogs/tech/best-way-to-round-converted-price-on-shopify).
 - 💻 Built a [free Shopify booking app](https://apps.shopify.com/calendar-booking) and a [free Shopify currency conversion app](https://apps.shopify.com/currency-hop).
